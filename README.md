@@ -5,6 +5,7 @@ Showcase the Articles done by Bridgetek Team
 ⚡ [Line by Line Rendering: The Secret Behind EVE’s Efficiency](https://brtchip.com/%e2%9a%a1-line-by-line-rendering-the-secret-behind-eves-efficiency/)
 
 ![thumbnail1](/images/Line%20by%20Line%20Rendering%20-%20The%20Secret%20Behind%20EVE’s%20Efficiency.png)
+!<img src="/images/Line%20by%20Line%20Rendering%20-%20The%20Secret%20Behind%20EVE%E2%80%99s%20Efficiency.png" width="300" alt="thumbnail1">
 
 ##
 
