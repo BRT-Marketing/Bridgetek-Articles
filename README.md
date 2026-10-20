@@ -60,8 +60,8 @@ Showcase the Articles done by Bridgetek Team
 </td>
 
 <td align="center" width="33%">
-<a href="https://brtchip.com/bridgetek-eve-with-astc-compression-render-complex-graphics-with-minimal-flash-and-ram-usage/" target="_blank">
-<img src="/images/Bridgetek%20EVE%20with%20ASTC%20compression%20%E2%80%93%20Render%20Complex%20Graphics%20with%20Minimal%20Flash%20and%20RAM%20usage.png"
+<a href="https://brtchip.com/rich-user-interfaces-without-the-memory-overhead/" target="_blank">
+<img src="/images/Bridgetek Rich User Interfaces without the Memory Overhead.png"
      width="280" height="180"
      style="object-fit: cover;"
      alt="EVE ASTC Compression">
