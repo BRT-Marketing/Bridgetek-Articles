@@ -19,6 +19,7 @@ Showcase the Articles done by Bridgetek Team
 💸 [Cutting Costs in Embedded Graphics: No SDRAM Needed](https://brtchip.com/%f0%9f%92%b8-cutting-costs-in-embedded-graphics-no-sdram-needed/)
 
 ![thumbnail3](/images/Cutting%20Costs%20in%20Embedded%20Graphics%20-%20%20No%20SDRAM%20Needed.png)
+!<img src="/images/Cutting%20Costs%20in%20Embedded%20Graphics%20-%20%20No%20SDRAM%20Needed.png" width="300" alt="thumbnail3">
 
 ##
 
