@@ -16,12 +16,12 @@ Showcase the Articles done by Bridgetek Team
 
 💸 [Cutting Costs in Embedded Graphics: No SDRAM Needed](https://brtchip.com/%f0%9f%92%b8-cutting-costs-in-embedded-graphics-no-sdram-needed/)
 
-!<img src="/images/Cutting%20Costs%20in%20Embedded%20Graphics%20-%20%20No%20SDRAM%20Needed.png" width="300" alt="thumbnail3">
+<img src="/images/Cutting%20Costs%20in%20Embedded%20Graphics%20-%20%20No%20SDRAM%20Needed.png" width="300" alt="thumbnail3">
 
 ##
 
 [Bridgetek EVE with ASTC compression - Render Complex Graphics with Minimal Flash and RAM usage](https://brtchip.com/bridgetek-eve-with-astc-compression-render-complex-graphics-with-minimal-flash-and-ram-usage/)
 
-!<img src="/images/Bridgetek%20EVE%20with%20ASTC%20compression%20–%20Render%20Complex%20Graphics%20with%20Minimal%20Flash%20and%20RAM%20usage.png" width="300" alt="thumbnail4">
+<img src="/images/Bridgetek%20EVE%20with%20ASTC%20compression%20–%20Render%20Complex%20Graphics%20with%20Minimal%20Flash%20and%20RAM%20usage.png" width="300" alt="thumbnail4">
 
 ##
