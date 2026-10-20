@@ -12,6 +12,7 @@ Showcase the Articles done by Bridgetek Team
 💹 [Rising SDRAM and DDR Prices Make EVE the Clear Choice](https://brtchip.com/%f0%9f%92%b9-rising-sdram-and-ddr-prices-make-eve-the-clear-choice/)
 
 ![thumbnail2](/images/Rising%20SDRAM%20and%20DDR%20Prices%20Make%20EVE%20the%20Clear%20Choice.jpg)
+!<img src="/images/Rising%20SDRAM%20and%20DDR%20Prices%20Make%20EVE%20the%20Clear%20Choice.jpg" width="300" alt="thumbnail2">
 
 ##
 
