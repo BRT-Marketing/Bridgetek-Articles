@@ -56,7 +56,7 @@ Showcase the Articles done by Bridgetek Team
      alt="EVE ASTC Compression">
 </a>
 <br>
-<b>Bridgetek EVE with ASTC Compression – Render Complex Graphics with Minimal Flash and RAM Usage</b>
+<b>Doing more with Less Memory using Bridgetek EVE</b>
 </td>
 
 <td align="center" width="33%">
@@ -67,7 +67,7 @@ Showcase the Articles done by Bridgetek Team
      alt="EVE ASTC Compression">
 </a>
 <br>
-<b>Bridgetek EVE with ASTC Compression – Render Complex Graphics with Minimal Flash and RAM Usage</b>
+<b>Rich User Interfaces without the Memory Overhead</b>
 </td>
 
 </tr>
