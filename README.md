@@ -48,8 +48,27 @@ Showcase the Articles done by Bridgetek Team
 <b>Bridgetek EVE with ASTC Compression – Render Complex Graphics with Minimal Flash and RAM Usage</b>
 </td>
 
-<td></td>
-<td></td>
+<<td align="center" width="33%">
+<a href="https://brtchip.com/doing-more-with-less-memory-using-bridgetek-eve/" target="_blank">
+<img src="/images/Bridgetek Doing More with Less Memory Using Bridgetek EVE.png"
+     width="280" height="180"
+     style="object-fit: cover;"
+     alt="EVE ASTC Compression">
+</a>
+<br>
+<b>Bridgetek EVE with ASTC Compression – Render Complex Graphics with Minimal Flash and RAM Usage</b>
+</td>
+
+<td align="center" width="33%">
+<a href="https://brtchip.com/bridgetek-eve-with-astc-compression-render-complex-graphics-with-minimal-flash-and-ram-usage/" target="_blank">
+<img src="/images/Bridgetek%20EVE%20with%20ASTC%20compression%20%E2%80%93%20Render%20Complex%20Graphics%20with%20Minimal%20Flash%20and%20RAM%20usage.png"
+     width="280" height="180"
+     style="object-fit: cover;"
+     alt="EVE ASTC Compression">
+</a>
+<br>
+<b>Bridgetek EVE with ASTC Compression – Render Complex Graphics with Minimal Flash and RAM Usage</b>
+</td>
 
 </tr>
 </table>
